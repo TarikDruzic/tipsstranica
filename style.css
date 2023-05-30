@@ -1,0 +1,103 @@
+
+body{
+    background-color: rgb(34, 34, 34);
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+}
+#utakmice,table{
+    margin-top: 150px;
+    margin-left: 50px;
+    float: left;
+    
+}
+.historija{
+    float: right;
+    margin-top: 20px;
+    margin-right: 200px;
+}
+p,table{
+    color: white;
+    font-size: 1.5em;
+
+    
+}
+h5{
+    color: white;
+    font-size: 3em;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+
+  header a {
+    color: #fff;
+    text-decoration: none;
+    
+    
+    
+    
+  }
+
+
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+
+  table,td,th{
+    border: 1px solid white;
+    
+  
+  }
+
+  .reki{
+    text-decoration: underline;
+  }
+  .peki{
+    text-decoration: underline;
+  }
+#datumdanas{
+    text-align: center;
+    padding: 5px;
+}
+@media only screen and (max-width: 600px) {
+    .container {
+        padding: 10px;
+    }
+
+    .header {
+        margin: auto;
+        font-size: 1em;
+    }
+
+    .content {
+        font-size: 12px;
+    }
+    table{
+        margin: auto;
+        font-size: 1em;
+        margin-right: 50px;
+    }
+    .historija{
+        margin:auto;
+    }
+    .navbar{
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    #utakmice{
+        margin:auto;
+        margin-top: 100px;
+        margin-left: 20px;
+        
+
+    }
+}
+
