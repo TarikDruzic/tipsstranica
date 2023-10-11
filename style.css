@@ -1,6 +1,6 @@
 
 body{
-    background-color: rgb(34, 34, 34);
+    background-color: rgb(244, 9, 177);
     font-family: 'Roboto', sans-serif;
     font-family: 'Source Code Pro', monospace;
 }
@@ -106,8 +106,3 @@ header {
     }
 }
 
-h2{
-    text-align: center;
-    font-size: 50px;
-    color: azure;
-}
